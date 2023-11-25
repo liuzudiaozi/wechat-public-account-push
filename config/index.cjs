@@ -16,20 +16,6 @@ const USER_CONFIG = {
   PROVINCE: '上海',
   CITY: '上海',
 
- {{date.DATA}} 
-城市：{{city.DATA}} 
-天气：{{weather.DATA}} 
-最低气温: {{min_temperature.DATA}} 
-最高气温: {{max_temperature.DATA}} 
- 
-今天是77爱小胖的{{love_day.DATA}}天❤❤❤
-{{birthday1.DATA}}
-{{birthday2.DATA}}
- 
-双十一快到了~我想要买辆车：你的购物车(*^▽^*)
- 
-{{note_en.DATA}} 
-{{note_ch.DATA}}
   USERS: [
     {
       // 想要发送的人的名字
