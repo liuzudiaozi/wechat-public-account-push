@@ -16,6 +16,9 @@ const USER_CONFIG = {
   PROVINCE: '上海',
   CITY: '上海',
 
+  城市：{{city.DATA}}
+      
+ 天气：{{weather.DATA}}
   USERS: [
     {
       // 想要发送的人的名字
